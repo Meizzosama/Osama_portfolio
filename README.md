@@ -1,2 +1,2 @@
 # Osama_portfolio
-Custom Designed web portfolio of myself..
+Custom Designed web portfolio..
